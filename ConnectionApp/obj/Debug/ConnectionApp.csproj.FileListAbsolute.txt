@@ -1,0 +1,7 @@
+D:\test\ADO .NET\ConnectionApp\bin\Debug\ConnectionApp.exe.config
+D:\test\ADO .NET\ConnectionApp\bin\Debug\ConnectionApp.exe
+D:\test\ADO .NET\ConnectionApp\bin\Debug\ConnectionApp.pdb
+D:\test\ADO .NET\ConnectionApp\obj\Debug\ConnectionApp.csproj.AssemblyReference.cache
+D:\test\ADO .NET\ConnectionApp\obj\Debug\ConnectionApp.csproj.CoreCompileInputs.cache
+D:\test\ADO .NET\ConnectionApp\obj\Debug\ConnectionApp.exe
+D:\test\ADO .NET\ConnectionApp\obj\Debug\ConnectionApp.pdb
